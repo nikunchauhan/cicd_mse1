@@ -4,3 +4,5 @@
 
 This repository contains a small Python calculator project with CI validation via GitHub Actions for tests and coverage.
 
+PR validation commit to trigger GitHub Actions workflows.
+
